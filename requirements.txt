@@ -1,0 +1,1 @@
+streamlit\ntensorflow\nnumpy\npillow\n
