@@ -1,1 +1,4 @@
-streamlit\ntensorflow\nnumpy\npillow\n
+streamlit
+tensorflow
+numpy
+pillow
